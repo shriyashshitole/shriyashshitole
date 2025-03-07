@@ -8,7 +8,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shriyashshitole) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriyash-shitole-49a210345/))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shriyashshitole) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriyash-shitole-49a210345/)
 [![](https://visitcount.itsvg.in/api?id=prajwal-0706&icon=2&color=6)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
